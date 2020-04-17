@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "relative.h"
+#include "../headers/relative.h"
 
 
 int relative_food(int food){
